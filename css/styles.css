@@ -1,16 +1,10 @@
-.slider{
-    height: 38rem;
-}
-.courses-gutter{
-    height: 10rem;
+.carou {
+  filter: brightness(50%);
 }
 .join-section{
-    height: 12rem;
+    height: 14rem;
 }
-.company{
-    height: 1.5rem;
-}
-footer{
-    height: 20rem;
-    margin-top: 7rem;
+footer {
+  height: 20rem;
+  margin-top: 7rem;
 }
